@@ -1,0 +1,5 @@
+/src/Infrastructure/obj
+/src/Infrastructure/bin
+/src/VolNal.Chat.AuthorizationService/bin
+/src/VolNal.Chat.AuthorizationService/obj
+.idea
